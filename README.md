@@ -89,6 +89,11 @@ This project helped in understanding:
 * Human-computer interaction
 * MediaPipe hand landmark detection
 
+## 📜 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project with proper attribution.
+
 ---
 
 ⭐ If you like this project, consider giving it a star on GitHub!
